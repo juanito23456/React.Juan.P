@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-image: url("https://images.pexels.com/photos/1171719/pexels-photo-1171719.jpeg?auto=compress&cs=tinysrgb&w=1600");
+    margin-left: 0%;
+  }
+
+  h2{
+    color: white;
+  }
